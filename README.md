@@ -1,4 +1,3 @@
-[guia_definitivo_de_sql_joins.md](https://github.com/user-attachments/files/33832977/guia_definitivo_de_sql_joins.md)
 # Guia Definitivo de SQL Joins (2, 3 e 4 Tabelas)
 
 Um guia prático e teórico completo sobre a utilização de Junções (*Joins*) em bancos de dados relacionais (RDBMS), abrangendo desde o relacionamento básico de 2 tabelas até relacionamentos complexos envolvendo 3 e 4 tabelas.
